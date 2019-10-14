@@ -1,2 +1,2 @@
-# RESTful-Blog-App-Learn-CRUD-
+# RESTful Blog App!
 A simple way to learn REST using Node.js :)
